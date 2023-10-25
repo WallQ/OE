@@ -4,7 +4,7 @@
 
 ## Technologies
 
--   [R](https://www.r-project.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="64" height="64" />](https://www.r-project.org/)
 
 ## License
 
